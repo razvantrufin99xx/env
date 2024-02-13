@@ -1,0 +1,17 @@
+os version :Microsoft Windows NT 6.2.9200.0
+machine name:DESKTOP-EDR3U3J
+processors count:8
+system directory:C:\WINDOWS\system32
+system page size:4096
+is a 64 os system:True
+current directory:C:\_mydocuments\srcfebr2024b\env\env\bin\Debug
+user name:razvan
+user domain name:DESKTOP-EDR3U3J
+system page size:4096
+system directory:C:\WINDOWS\system32
+is a 64 proces:False
+current managed thread id:1
+working set:30990336
+ticks count:55169781
+logic drive:0 -> C:\
+environment variables counter :75
